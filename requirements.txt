@@ -1,0 +1,23 @@
+
+Train Route Finder - UX Design Brief
+The Train Route Finder website will help users easily discover train routes between two cities, whether direct or with layovers. The design should be clean, user-friendly, and visually engaging, ensuring a seamless experience.
+
+Core Features
+Input Section:
+
+Dropdown fields for selecting Home City and Destination City.
+A slider or input box for Maximum Layover Time (default: 4 hours).
+A clear and prominent Search button.
+Results Display:
+
+List all direct and indirect train routes in a well-organized layout.
+Each route card will include train names, departure/arrival stations, timings, total journey time, and layover details.
+Sorting and filtering options to refine results (e.g., by time or number of layovers).
+Optional Features:
+
+A map view showing the train routes visually.
+Visual Style
+Colors: Use soft blues and greens to evoke a sense of travel and relaxation.
+Typography: Modern, clean fonts like Roboto or Open Sans.
+Icons and Graphics: Subtle train-themed elements to enhance the travel experience.
+The design should prioritize clarity and simplicity while incorporating a modern aesthetic. It must be mobile-responsive, ensuring usability across all devices
