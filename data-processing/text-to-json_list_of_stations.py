@@ -34,7 +34,7 @@ for line in station_lines:
     stations.append(station_dict)
 
 # Write the resulting list of stations into a JSON file "json_list_of_stations.md"
-with open("json_list_of_stations.md", "w") as json_file:
+with open("list_of_stations.json", "w") as json_file:
     json.dump(stations, json_file, indent=4)
 
 print("Data has been successfully written to json_list_of_stations.md")
